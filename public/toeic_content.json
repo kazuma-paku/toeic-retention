@@ -1,0 +1,496 @@
+{
+  "part1": {
+    "easy": [
+      { "text": "A man is typing on a laptop at his desk." },
+      { "text": "Two women are shaking hands in front of a building." },
+      { "text": "A woman is holding a cup of coffee near the window." },
+      { "text": "Some people are waiting in line at the counter." },
+      { "text": "A man is reading a newspaper on a bench." },
+      { "text": "A woman is watering the plants in the garden." },
+      { "text": "Some workers are loading boxes into a truck." },
+      { "text": "A man is fixing a bicycle on the sidewalk." },
+      { "text": "A woman is writing on a whiteboard in the meeting room." },
+      { "text": "Some customers are looking at items on the shelves." },
+      { "text": "A man is pushing a shopping cart through the aisle." },
+      { "text": "A woman is talking on the phone at her desk." }
+    ],
+    "medium": [
+      { "text": "Several documents have been arranged neatly on the conference table." },
+      { "text": "A technician is inspecting equipment mounted on the ceiling." },
+      { "text": "The pedestrians are crossing the street at the intersection." },
+      { "text": "A chef is arranging vegetables on a wooden cutting board." },
+      { "text": "Some passengers are boarding the train through the open doors." },
+      { "text": "A researcher is examining samples under a microscope." },
+      { "text": "The chairs have been stacked against the wall of the auditorium." },
+      { "text": "A landscaper is trimming the bushes along the walkway." },
+      { "text": "Some diners are seated at tables on the outdoor patio." },
+      { "text": "A mechanic is adjusting parts underneath a raised vehicle." },
+      { "text": "The shelves in the warehouse have been fully stocked." },
+      { "text": "A cashier is handing a receipt to a customer at the register." }
+    ],
+    "hard": [
+      { "text": "Scaffolding has been erected along the perimeter of the historic facade." },
+      { "text": "An architect is unrolling blueprints across a broad drafting surface." },
+      { "text": "The reflection of skyscrapers is visible on the polished pavement." },
+      { "text": "A vendor is arranging merchandise beneath a canvas awning." },
+      { "text": "Some delegates are conversing informally beside the podium." },
+      { "text": "The awning above the storefront has been retracted for cleaning." },
+      { "text": "A curator is repositioning artifacts within a glass display case." },
+      { "text": "Cargo containers are being stacked by a crane at the dockyard." },
+      { "text": "A surveyor is calibrating an instrument mounted on a tripod." },
+      { "text": "The banister of the spiral staircase has been freshly polished." },
+      { "text": "Some technicians are threading cables through overhead conduits." },
+      { "text": "An attendant is refilling glassware behind the hotel bar." }
+    ]
+  },
+  "part2": {
+    "easy": [
+      { "question": "Where is the meeting room?", "answer": "It's on the second floor, next to the elevator." },
+      { "question": "When does the store open?", "answer": "At nine o'clock every morning." },
+      { "question": "Who is coming to the party?", "answer": "About twenty of our colleagues." },
+      { "question": "Why are you late today?", "answer": "The bus was delayed by traffic." },
+      { "question": "How much is this jacket?", "answer": "It's forty-five dollars with the discount." },
+      { "question": "Can you help me with this box?", "answer": "Sure, just give me a minute." },
+      { "question": "Did you finish the report?", "answer": "Yes, I sent it this morning." },
+      { "question": "Would you like some coffee?", "answer": "No thanks, I already had some." },
+      { "question": "What time does the flight leave?", "answer": "It departs at seven thirty tonight." },
+      { "question": "Is the printer working?", "answer": "No, it's out of ink again." },
+      { "question": "Should we take the stairs or the elevator?", "answer": "Let's take the stairs for exercise." },
+      { "question": "How was your weekend?", "answer": "It was relaxing, thanks for asking." }
+    ],
+    "medium": [
+      { "question": "When are you planning to submit the proposal?", "answer": "I'm aiming to have it ready by Thursday." },
+      { "question": "Do you know who's leading the training session?", "answer": "I believe it's the new HR director." },
+      { "question": "Why did they postpone the launch event?", "answer": "The venue had a scheduling conflict." },
+      { "question": "How long will the renovation take?", "answer": "Roughly three weeks, according to the contractor." },
+      { "question": "Should we hire an outside consultant for this?", "answer": "Let's see if we can handle it internally first." },
+      { "question": "Have you reviewed the quarterly figures yet?", "answer": "Not in detail, but they look promising." },
+      { "question": "Where can I find the updated employee handbook?", "answer": "It's posted on the intranet under HR resources." },
+      { "question": "Would you prefer the morning or afternoon slot?", "answer": "Either works, but morning is slightly better." },
+      { "question": "Isn't the deadline being pushed back?", "answer": "Actually, they moved it up by two days." },
+      { "question": "Who's responsible for approving these expenses?", "answer": "Any purchase over five hundred needs Diane's sign-off." },
+      { "question": "How did the client respond to the revised terms?", "answer": "They seemed satisfied but asked for a call tomorrow." },
+      { "question": "Do we have enough inventory for next month?", "answer": "We might need to place another order soon." }
+    ],
+    "hard": [
+      { "question": "Shouldn't we reconsider our exposure to the Asian market?", "answer": "That's precisely what the risk committee flagged yesterday." },
+      { "question": "How are we tracking against the revised revenue projections?", "answer": "We're marginally ahead in two segments, behind in one." },
+      { "question": "Has legal weighed in on the licensing clause yet?", "answer": "They're still reviewing the indemnification language." },
+      { "question": "Whose approval do we need to greenlight the pilot?", "answer": "The steering committee has to sign off collectively." },
+      { "question": "Why weren't the compliance concerns raised earlier?", "answer": "Frankly, they only surfaced during the final audit." },
+      { "question": "Do you think the board will endorse the restructuring plan?", "answer": "Given the current climate, probably with conditions." },
+      { "question": "Wasn't the vendor supposed to absorb the shipping costs?", "answer": "That was contingent on hitting a minimum order volume." },
+      { "question": "Where do we stand on the acquisition due diligence?", "answer": "The financial review is complete, but IT is lagging." },
+      { "question": "How receptive were the stakeholders to the new governance model?", "answer": "Mixed reactions, though the CFO was surprisingly supportive." },
+      { "question": "Couldn't we streamline the approval workflow further?", "answer": "We could, but it might undermine oversight." },
+      { "question": "What's the contingency if the merger falls through?", "answer": "We'd revert to organic growth targets for the year." },
+      { "question": "Have you factored in the regulatory headwinds?", "answer": "Yes, that's baked into the conservative scenario." }
+    ]
+  },
+  "part3": {
+    "easy": [
+      {
+        "context": "Two coworkers talking about lunch plans",
+        "items": [
+          { "speaker": "M", "text": "Hey Sarah, are you free for lunch today?" },
+          { "speaker": "W", "text": "Yes, I was just about to ask you the same thing." },
+          { "speaker": "M", "text": "Great. There's a new sandwich shop across the street." },
+          { "speaker": "W", "text": "I've heard about it. Do they have vegetarian options?" },
+          { "speaker": "M", "text": "I think so. Let's leave around twelve fifteen." },
+          { "speaker": "W", "text": "Perfect. I'll meet you at the front entrance." }
+        ]
+      },
+      {
+        "context": "A customer asking about a product at a store",
+        "items": [
+          { "speaker": "W", "text": "Excuse me, do you have this shirt in a medium?" },
+          { "speaker": "M", "text": "Let me check the storage room for you." },
+          { "speaker": "W", "text": "Thanks. I've been looking everywhere." },
+          { "speaker": "M", "text": "Here's one in medium. Would you like to try it on?" },
+          { "speaker": "W", "text": "Yes, where are the fitting rooms?" },
+          { "speaker": "M", "text": "Right behind you, on the left side." }
+        ]
+      },
+      {
+        "context": "A manager and employee discussing a schedule",
+        "items": [
+          { "speaker": "M", "text": "Can you work on Saturday this week?" },
+          { "speaker": "W", "text": "I already have plans in the morning." },
+          { "speaker": "M", "text": "What about the afternoon shift, from two to eight?" },
+          { "speaker": "W", "text": "That should work. What do you need me to do?" },
+          { "speaker": "M", "text": "Just cover the front desk while Tim is out." },
+          { "speaker": "W", "text": "No problem. I'll see you Saturday at two." }
+        ]
+      },
+      {
+        "context": "A phone call about a delivery",
+        "items": [
+          { "speaker": "W", "text": "Hi, I'm calling about my package that hasn't arrived." },
+          { "speaker": "M", "text": "Can I have your order number, please?" },
+          { "speaker": "W", "text": "Yes, it's four seven two eight one." },
+          { "speaker": "M", "text": "I see. It looks like it's out for delivery today." },
+          { "speaker": "W", "text": "Do you know what time it will arrive?" },
+          { "speaker": "M", "text": "Usually before six in the evening." }
+        ]
+      },
+      {
+        "context": "Two friends planning a business trip together",
+        "items": [
+          { "speaker": "M", "text": "Have you booked your hotel for the Chicago trip?" },
+          { "speaker": "W", "text": "Not yet. Which one are you staying at?" },
+          { "speaker": "M", "text": "The Riverside Inn. It's close to the conference." },
+          { "speaker": "W", "text": "That sounds convenient. How much is it per night?" },
+          { "speaker": "M", "text": "About one hundred forty dollars with the group rate." },
+          { "speaker": "W", "text": "Okay, I'll book the same one today." }
+        ]
+      },
+      {
+        "context": "A patient scheduling a doctor's appointment",
+        "items": [
+          { "speaker": "W", "text": "I'd like to schedule a check-up with Doctor Kim." },
+          { "speaker": "M", "text": "Sure, when would you like to come in?" },
+          { "speaker": "W", "text": "Anytime next week would be fine." },
+          { "speaker": "M", "text": "How about Tuesday at ten in the morning?" },
+          { "speaker": "W", "text": "Tuesday works. Should I bring anything?" },
+          { "speaker": "M", "text": "Just your insurance card and a photo ID." }
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "context": "Two colleagues discussing a project deadline",
+        "items": [
+          { "speaker": "M", "text": "Have you had a chance to look at the client feedback?" },
+          { "speaker": "W", "text": "Yes, I went through it yesterday afternoon." },
+          { "speaker": "M", "text": "They're asking for quite a few revisions before Friday." },
+          { "speaker": "W", "text": "I noticed. I think we'll need to bring in another designer." },
+          { "speaker": "M", "text": "Good idea. Should I contact the freelance team we used last time?" },
+          { "speaker": "W", "text": "Please do, and copy me on the email so I can share the specs." }
+        ]
+      },
+      {
+        "context": "A hotel guest making a complaint at the front desk",
+        "items": [
+          { "speaker": "W", "text": "Excuse me, the air conditioning in my room isn't functioning properly." },
+          { "speaker": "M", "text": "I'm sorry to hear that. Which room are you in, ma'am?" },
+          { "speaker": "W", "text": "Room 812. It's been making a strange noise all night." },
+          { "speaker": "M", "text": "I can send maintenance up, or move you to another room." },
+          { "speaker": "W", "text": "A different room would be preferable, if that's possible." },
+          { "speaker": "M", "text": "Of course. I'll upgrade you to a suite on the tenth floor at no charge." }
+        ]
+      },
+      {
+        "context": "A hiring manager interviewing a candidate over the phone",
+        "items": [
+          { "speaker": "M", "text": "Thanks for taking the time to speak with me today." },
+          { "speaker": "W", "text": "Of course. I'm excited to learn more about the position." },
+          { "speaker": "M", "text": "Could you walk me through your most recent project management experience?" },
+          { "speaker": "W", "text": "Sure. For the past two years I've led a cross-functional team of eight." },
+          { "speaker": "M", "text": "What kinds of challenges did you encounter in that role?" },
+          { "speaker": "W", "text": "Primarily balancing competing priorities across different departments." }
+        ]
+      },
+      {
+        "context": "A retail manager and a supplier reviewing an order",
+        "items": [
+          { "speaker": "W", "text": "The shipment we received yesterday was missing several items." },
+          { "speaker": "M", "text": "I apologize for that. Do you have the packing slip handy?" },
+          { "speaker": "W", "text": "Yes, I've highlighted the discrepancies for you." },
+          { "speaker": "M", "text": "It looks like the warehouse split the order into two shipments." },
+          { "speaker": "W", "text": "When can we expect the remaining items to arrive?" },
+          { "speaker": "M", "text": "I'll arrange expedited shipping and confirm by end of day." }
+        ]
+      },
+      {
+        "context": "Two coworkers discussing a training program",
+        "items": [
+          { "speaker": "M", "text": "Are you signing up for the leadership workshop next month?" },
+          { "speaker": "W", "text": "I'd like to, but my calendar is completely booked." },
+          { "speaker": "M", "text": "They're offering an online version if attending in person doesn't work." },
+          { "speaker": "W", "text": "Really? That would be much more manageable for me." },
+          { "speaker": "M", "text": "I'll forward you the registration link this afternoon." },
+          { "speaker": "W", "text": "Thanks. I'll aim to complete the modules over the next few weekends." }
+        ]
+      },
+      {
+        "context": "A real estate agent showing a commercial space",
+        "items": [
+          { "speaker": "W", "text": "This unit has been on the market for less than two weeks." },
+          { "speaker": "M", "text": "How much square footage are we looking at exactly?" },
+          { "speaker": "W", "text": "It's approximately twenty-two hundred square feet on this floor." },
+          { "speaker": "M", "text": "And what's included in the monthly lease?" },
+          { "speaker": "W", "text": "Utilities and maintenance, but you'd cover internet and insurance." },
+          { "speaker": "M", "text": "That's within our budget. Could we schedule another visit with our contractor?" }
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "context": "Two executives discussing a strategic partnership",
+        "items": [
+          { "speaker": "M", "text": "The preliminary terms sheet arrived from their counsel this morning." },
+          { "speaker": "W", "text": "Any red flags we should be conscious of before Monday's board briefing?" },
+          { "speaker": "M", "text": "The exclusivity clause is broader than we'd anticipated in our internal discussions." },
+          { "speaker": "W", "text": "That could constrain our ability to pursue parallel opportunities in adjacent verticals." },
+          { "speaker": "M", "text": "Precisely. I've asked legal to draft counter-language narrowing the scope." },
+          { "speaker": "W", "text": "Good. Let's align on our walk-away position before we respond formally." }
+        ]
+      },
+      {
+        "context": "A consultant presenting findings to a client",
+        "items": [
+          { "speaker": "W", "text": "Our analysis suggests your operating margins have compressed significantly year-over-year." },
+          { "speaker": "M", "text": "We've been aware of that trend, but the magnitude is troubling." },
+          { "speaker": "W", "text": "The primary drivers appear to be input cost volatility and pricing constraints in your core segment." },
+          { "speaker": "M", "text": "Have you identified levers we could pull without disrupting customer relationships?" },
+          { "speaker": "W", "text": "We've modeled several scenarios, ranging from procurement optimization to portfolio rationalization." },
+          { "speaker": "M", "text": "Let's convene the leadership team next week to review the recommended path forward." }
+        ]
+      },
+      {
+        "context": "A supply chain manager and vendor negotiating terms",
+        "items": [
+          { "speaker": "M", "text": "Your latest quote reflects a nine percent increase over last quarter's pricing." },
+          { "speaker": "W", "text": "That's largely driven by raw material fluctuations and freight surcharges beyond our control." },
+          { "speaker": "M", "text": "Understandable, but we're going to need some flexibility to absorb that on our end." },
+          { "speaker": "W", "text": "We could explore extended payment terms or volume-based rebates as offsets." },
+          { "speaker": "M", "text": "A volume rebate structure would be preferable given our forecasted uptick in demand." },
+          { "speaker": "W", "text": "Let me draft a proposal with tiered thresholds and circulate it by Wednesday." }
+        ]
+      },
+      {
+        "context": "A CFO briefing a division head on financial results",
+        "items": [
+          { "speaker": "W", "text": "Your division came in slightly under budget on operating expenses this quarter." },
+          { "speaker": "M", "text": "That's largely attributable to the hiring freeze we implemented in April." },
+          { "speaker": "W", "text": "However, top-line growth has decelerated more than the forecast anticipated." },
+          { "speaker": "M", "text": "We're seeing softness in our enterprise segment, partly due to elongated sales cycles." },
+          { "speaker": "W", "text": "How confident are you in your pipeline conversion assumptions for the second half?" },
+          { "speaker": "M", "text": "Moderately, though we're building in more conservative close rates than previous quarters." }
+        ]
+      },
+      {
+        "context": "A legal counsel and product manager discussing compliance",
+        "items": [
+          { "speaker": "M", "text": "The new data residency regulations take effect in three jurisdictions next quarter." },
+          { "speaker": "W", "text": "Have we assessed the technical implications for our existing infrastructure?" },
+          { "speaker": "M", "text": "Engineering estimates we'll need to migrate substantial workloads to regional data centers." },
+          { "speaker": "W", "text": "That has significant capital implications we haven't budgeted for this fiscal year." },
+          { "speaker": "M", "text": "We might qualify for a transitional period if we demonstrate a credible remediation plan." },
+          { "speaker": "W", "text": "Let's document our timeline and engage the regulators proactively before enforcement begins." }
+        ]
+      },
+      {
+        "context": "A board member discussing succession planning with the CEO",
+        "items": [
+          { "speaker": "W", "text": "The nominating committee raised the succession question at last week's session." },
+          { "speaker": "M", "text": "I've been giving it considerable thought, particularly around internal readiness." },
+          { "speaker": "W", "text": "Do we have candidates who could credibly step into the role within eighteen months?" },
+          { "speaker": "M", "text": "Two, potentially, though each would benefit from targeted development in specific areas." },
+          { "speaker": "W", "text": "We should formalize their exposure to investor relations and board dynamics." },
+          { "speaker": "M", "text": "Agreed. I'll structure a rotational assignment plan and share it with the committee." }
+        ]
+      }
+    ]
+  },
+  "part4": {
+    "easy": [
+      {
+        "context": "Airport announcement",
+        "items": [
+          { "text": "Attention passengers, this is a boarding announcement for flight 245." },
+          { "text": "The flight to Seattle will begin boarding at gate C7." },
+          { "text": "Please have your boarding pass and identification ready." },
+          { "text": "We will start with passengers who need extra time." },
+          { "text": "Thank you for choosing our airline." }
+        ]
+      },
+      {
+        "context": "Store closing announcement",
+        "items": [
+          { "text": "Attention shoppers, the store will be closing in fifteen minutes." },
+          { "text": "Please bring your final purchases to the checkout counters." },
+          { "text": "Our customer service desk is now closed for the day." },
+          { "text": "We will reopen tomorrow morning at nine o'clock." },
+          { "text": "Thank you for shopping with us today." }
+        ]
+      },
+      {
+        "context": "Voicemail from a dentist office",
+        "items": [
+          { "text": "Hello, this is Dr. Miller's office calling for Mr. Johnson." },
+          { "text": "We're reminding you of your appointment tomorrow at three thirty." },
+          { "text": "Please arrive ten minutes early to update your paperwork." },
+          { "text": "If you need to reschedule, call us before five today." },
+          { "text": "Thank you and have a great day." }
+        ]
+      },
+      {
+        "context": "Weather report on the radio",
+        "items": [
+          { "text": "Good morning, here is your weather update for today." },
+          { "text": "Expect sunny skies with a high of seventy-five degrees." },
+          { "text": "A light breeze will come in from the west this afternoon." },
+          { "text": "There is a chance of rain later tonight." },
+          { "text": "Tomorrow will be cooler with cloudy conditions." }
+        ]
+      },
+      {
+        "context": "Company welcome message to new employees",
+        "items": [
+          { "text": "Welcome everyone to your first day with our company." },
+          { "text": "This morning we will begin with a tour of the office." },
+          { "text": "After lunch you will meet with your team leaders." },
+          { "text": "Please pick up your name badge at the reception desk." },
+          { "text": "We are very glad to have you here." }
+        ]
+      },
+      {
+        "context": "Bus tour introduction",
+        "items": [
+          { "text": "Welcome aboard our downtown sightseeing tour today." },
+          { "text": "The tour will last about two hours in total." },
+          { "text": "We will make three stops for photos along the way." },
+          { "text": "Please remain seated while the bus is moving." },
+          { "text": "Feel free to ask me any questions during the trip." }
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "context": "Company all-hands announcement",
+        "items": [
+          { "text": "Good morning everyone, and thanks for joining today's all-hands meeting." },
+          { "text": "I'd like to start by recognizing the operations team for hitting their quarterly targets." },
+          { "text": "This afternoon we'll be rolling out our updated remote work policy." },
+          { "text": "You'll receive a detailed email from HR within the next hour." },
+          { "text": "Please review the changes carefully and reach out with any questions." },
+          { "text": "We'll host a Q and A session next Wednesday for further discussion." }
+        ]
+      },
+      {
+        "context": "Conference opening remarks",
+        "items": [
+          { "text": "Welcome to the annual marketing innovation summit." },
+          { "text": "Over the next two days you'll hear from more than thirty industry leaders." },
+          { "text": "Our morning sessions will focus on emerging consumer trends." },
+          { "text": "In the afternoon, breakout rooms will host smaller workshops." },
+          { "text": "Please use the conference app to reserve your seats in advance." },
+          { "text": "Networking receptions will take place each evening in the main atrium." }
+        ]
+      },
+      {
+        "context": "Retail store manager training briefing",
+        "items": [
+          { "text": "Before we open, let's review the promotional signage for this weekend." },
+          { "text": "The seasonal sale kicks off on Saturday morning at ten." },
+          { "text": "All markdowns should be applied by end of shift tomorrow." },
+          { "text": "Remember to greet every customer within thirty seconds of entry." },
+          { "text": "If you notice inventory shortages, log them in the shared spreadsheet immediately." },
+          { "text": "Let's have a strong week and thank you for your continued effort." }
+        ]
+      },
+      {
+        "context": "Podcast episode introduction",
+        "items": [
+          { "text": "Welcome back to the small business spotlight podcast." },
+          { "text": "In today's episode, we're exploring strategies for scaling your online storefront." },
+          { "text": "Our guest is a founder who grew her boutique from a single location." },
+          { "text": "She'll share her lessons learned during rapid expansion." },
+          { "text": "We'll also cover common pitfalls to avoid along the way." },
+          { "text": "Stay tuned after the break for our listener question segment." }
+        ]
+      },
+      {
+        "context": "Manufacturing plant safety briefing",
+        "items": [
+          { "text": "Good morning team, let's begin with a quick safety review." },
+          { "text": "There was a minor incident on the packaging line yesterday afternoon." },
+          { "text": "Fortunately, no one was injured, but we want to prevent a repeat." },
+          { "text": "Please double-check that guards are locked in place before starting equipment." },
+          { "text": "Report any malfunctioning sensors to your shift supervisor immediately." },
+          { "text": "Our monthly safety training will take place this Friday at three." }
+        ]
+      },
+      {
+        "context": "Airline delay announcement",
+        "items": [
+          { "text": "Attention passengers waiting for flight 782 to Denver." },
+          { "text": "We regret to inform you of a delay due to inclement weather at the destination." },
+          { "text": "The new estimated departure time is eight fifteen this evening." },
+          { "text": "Meal vouchers are available for all ticketed passengers at the gate agent's desk." },
+          { "text": "We'll provide further updates every thirty minutes until boarding begins." },
+          { "text": "Thank you for your patience during this schedule change." }
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "context": "Quarterly earnings call opening",
+        "items": [
+          { "text": "Thank you all for joining our second-quarter earnings call this afternoon." },
+          { "text": "Revenue for the quarter came in at the upper end of our previously issued guidance range." },
+          { "text": "Adjusted operating margins expanded modestly, reflecting disciplined cost management across business units." },
+          { "text": "We continue to see resilient demand in our subscription segment despite broader macroeconomic headwinds." },
+          { "text": "Free cash flow generation remained robust, supporting continued investment in strategic priorities." },
+          { "text": "Following prepared remarks, we'll open the line for analyst questions and management commentary." }
+        ]
+      },
+      {
+        "context": "Regulatory compliance briefing to executives",
+        "items": [
+          { "text": "The recently enacted framework introduces stringent obligations on cross-border data transfers." },
+          { "text": "Non-compliance could expose the organization to penalties of up to four percent of global revenue." },
+          { "text": "Our preliminary gap analysis identifies critical remediation priorities across three functional domains." },
+          { "text": "Legal, engineering, and procurement teams have been mobilized to execute a coordinated response plan." },
+          { "text": "We anticipate substantive infrastructure investment during the next two fiscal quarters." },
+          { "text": "Executive sponsorship will be essential to ensure timely and comprehensive implementation." }
+        ]
+      },
+      {
+        "context": "Investor relations presentation excerpt",
+        "items": [
+          { "text": "Our long-term thesis centers on capitalizing on secular tailwinds within the industrial automation space." },
+          { "text": "Addressable market expansion, driven by reshoring dynamics, remains a significant growth vector." },
+          { "text": "We've deliberately allocated capital toward capabilities that enhance our competitive moat." },
+          { "text": "Recent acquisitions have expanded both our technological breadth and our geographic footprint." },
+          { "text": "Integration synergies are tracking ahead of the deal thesis presented at closing." },
+          { "text": "We remain committed to returning excess capital to shareholders through balanced deployment strategies." }
+        ]
+      },
+      {
+        "context": "Merger announcement to employees",
+        "items": [
+          { "text": "This morning we announced our intent to combine with a leading peer in our industry." },
+          { "text": "The transaction is subject to customary regulatory approvals and is expected to close within nine months." },
+          { "text": "The combined organization will benefit from complementary capabilities and expanded market reach." },
+          { "text": "Integration planning will commence immediately, guided by dedicated cross-functional working groups." },
+          { "text": "We recognize the uncertainty this news may generate and remain committed to transparent communication." },
+          { "text": "Additional details will be shared through your leadership channels in the coming days." }
+        ]
+      },
+      {
+        "context": "Academic conference keynote opening",
+        "items": [
+          { "text": "It's a genuine privilege to address this distinguished gathering of researchers and practitioners." },
+          { "text": "Over the past decade, our field has undergone a profound methodological transformation." },
+          { "text": "Advances in computational capacity have enabled inquiries that were previously infeasible in scope." },
+          { "text": "Yet these opportunities come with heightened responsibilities regarding reproducibility and ethical rigor." },
+          { "text": "This morning I'll trace how emerging paradigms are reshaping our understanding of foundational questions." },
+          { "text": "I hope the conversations that follow will challenge assumptions and generate productive disagreement." }
+        ]
+      },
+      {
+        "context": "Central bank policy statement",
+        "items": [
+          { "text": "The committee elected to maintain the benchmark rate at its current range this month." },
+          { "text": "Recent indicators suggest economic activity has continued to expand at a moderate pace." },
+          { "text": "Labor market conditions remain tight, though wage pressures have shown signs of easing." },
+          { "text": "Inflation has moderated meaningfully from its peak but persists above the committee's long-term objective." },
+          { "text": "In assessing the appropriate policy stance, we will continue to evaluate incoming data carefully." },
+          { "text": "The committee remains prepared to adjust policy as warranted by evolving economic conditions." }
+        ]
+      }
+    ]
+  }
+}
